@@ -1,6 +1,6 @@
 <h1 align="center"><ins>ITI-CPP-OOP</ins><h3 align="center">Repository dedicated for the Object Oriented Programming course in ITI with Eng. Mahmoud Ouf and Eng. Muhammad Al-Gindy
 
-##  <ins>2. LAB Question:</ins>
+##  <ins>LAB Question:</ins>
 
 ### LAB #1:
 - [x]	Write Structure Employee (ID, Name, and Salary).
