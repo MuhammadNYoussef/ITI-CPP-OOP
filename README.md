@@ -15,4 +15,13 @@
 - [x]	Write a swap function that takes a reference for two variables and swaps values.
 - [x]	Try function overloading and inline function.
 
+### LAB #3:
+- [x] Write three constructors for your Employee class as you like.
+- [x] Write the destructor of your Employee class.
+- [x] Write the copy constructor of your Employee.
+- [x] Write 2 functions with the following prototype:
+	1. Employee FillEmp (int id, int Sal, char * name)
+	2. void PrintEmp (Employee emp)
+- [x] Trace your program using f7 key.
+
 <br><hr><br>
