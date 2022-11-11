@@ -24,7 +24,7 @@
 	2. void PrintEmp (Employee emp)
 - [x] Trace your program using f7 key.
 
-###LAB #4:
+### LAB #4:
 - [x] Overload the +, =, ==, int, char *operators to do the following:
 	1. Emp +Emp 
 	2. 1000 +Emp
