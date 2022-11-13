@@ -34,5 +34,15 @@
 - [x] (int)Empreturns Employee id
 - [x] (char *)Empreturns Employee name
 
+### LAB #5:
+- [x] Add a class variables for your Employee
+- [x] CompanyName -> with setter and gettter.
+- [x] EmployeeConut -> with getter only (you know when to increment and decrement that count).
+- [x] Create an array for Employee using different constructors for the array elements.
+- [x] Write a class point.
+- [x] Write a class Rectangle that HAS 2 points.
+- [x] Write a member function in the Rectangle that gets its area.
+
+
 <br><hr><br>
 
