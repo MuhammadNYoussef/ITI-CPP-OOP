@@ -43,6 +43,13 @@
 - [x] Write a class Rectangle that HAS 2 points.
 - [x] Write a member function in the Rectangle that gets its area.
 
+### LAB #6:
+- [x] Write a class circle that knows 2 points and has radius as a member data with its constructors as you like.
+- [x] Write setters for circle’s points.
+- [x] Write a member function of class circle to get its radius (use Pythagorean Theorem).
+- [x] Try to deal with your circle class in the main.
+- [x] Write a person class that has id and name with setters and getters.
+- [x] Write Employee class that inherits person 
 
 <br><hr><br>
 
